@@ -1,6 +1,5 @@
 # mintello-clients
-Applications for Mintello
-[mintello.com](https://mintello.com)
+Applications for [mintello.com](https://mintello.com)
 
 
 ## Plugin AutoCAD 2017/2018/2019
