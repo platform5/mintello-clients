@@ -19,4 +19,5 @@ Installation (Windows 10 x64)
 2) Contrôler qu'aucun blocage ne soit actif et démarrer l'installateur.
 
 
+## Documentation
 Voir la documentation complémentaire : [wiki Mintello](https://github.com/platform5/mintello-clients/wiki)
